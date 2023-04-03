@@ -1,0 +1,13 @@
+section {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 2rem;
+  padding: 3rem;
+}
+.card {
+  border: 1px solid rgb(58, 57, 57);
+  padding: 1rem;
+  background-color: rgba(127, 255, 212, 0.55);
+  width: 15rem;
+}
